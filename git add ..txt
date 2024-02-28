@@ -1,0 +1,4 @@
+git add .
+git comit -m "primeiro comit"
+git push
+git pull
